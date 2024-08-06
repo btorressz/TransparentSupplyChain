@@ -3,7 +3,8 @@
 ## Overview
 
 The `TransparentSupplyChain` project is a smart contract implemented in Solidity that tracks the journey of agricultural products from farm to table. This contract ensures transparency and authenticity of organic and fair-trade certifications by recording product details and checkpoints in the supply chain. The contract utilizes role-based access control to manage permissions for different entities in the supply chain.
-This Project was 100% made in Remix IDE
+
+This Project was 100% made in Remix IDE and is under MIT License 
 
 ## Features
 
