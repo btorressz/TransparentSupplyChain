@@ -6,6 +6,8 @@ The `TransparentSupplyChain` project is a smart contract implemented in Solidity
 
 This Project was 100% made in Remix IDE and is under MIT License 
 
+I also have a Solana version of this project(https://github.com/btorressz/supply-chain-transparency) 
+
 ## Features
 
 - **Track Product Journey**: Records the journey of products from farm to table, including checkpoints at various stages.
