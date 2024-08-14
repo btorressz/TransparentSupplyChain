@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.25;
+pragma solidity ^0.8.26;
 
 import "../contracts/TransparentSupplyChain.sol";
 import "@openzeppelin/contracts/access/AccessControl.sol";
